@@ -265,7 +265,7 @@ void main(void)
 
 	while (1)
 	{
-            keypro();
+            //keypro();
 	    RF_SendPacket();
 	    RF_RecvHandler();
 	}

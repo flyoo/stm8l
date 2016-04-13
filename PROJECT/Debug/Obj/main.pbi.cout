@@ -1,34 +1,34 @@
-"H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\APP\main.c"
+"C:\Users\echo\Documents\GitHub\stm8l\APP\main.c"
 -std=c99
 -ferror-limit=100
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT\..\APP
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT\..\APP
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT\..\BSP
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT\..\BSP
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT\..\DRIVER\CPU\STM8L_LIB_V1.2.0\inc
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT\..\DRIVER\CPU\STM8L_LIB_V1.2.0\inc
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT\..\DRIVER\CPU\STM8L_LIB_V1.2.0
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT\..\DRIVER\CPU\STM8L_LIB_V1.2.0
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT\..\DRIVER\RF
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT\..\DRIVER\RF
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.5\stm8\inc\c
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\PROJECT
+C:\Users\echo\Documents\GitHub\stm8l\PROJECT
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\APP
+C:\Users\echo\Documents\GitHub\stm8l\APP
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\BSP
+C:\Users\echo\Documents\GitHub\stm8l\BSP
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\DRIVER\CPU\STM8L_LIB_V1.2.0\inc
+C:\Users\echo\Documents\GitHub\stm8l\DRIVER\CPU\STM8L_LIB_V1.2.0\inc
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\DRIVER\CPU\STM8L_LIB_V1.2.0
+C:\Users\echo\Documents\GitHub\stm8l\DRIVER\CPU\STM8L_LIB_V1.2.0
 -I
-H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷ÊÔÔ­°æ\DRIVER\RF
+C:\Users\echo\Documents\GitHub\stm8l\DRIVER\RF
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -237,8 +237,8 @@ H:\BaiduYunDownload\³ÌĞòÔ´Âë\stm8lÎŞÏß³ÌĞòV1.1\E10-ÎŞÏß´®¿ÚDEMO£¨SI4463£©³õ²½µ÷Ê
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=593160
--D__DATE__="Apr  7 2016"
--D__TIME__="16:37:38"
+-D__DATE__="Apr 13 2016"
+-D__TIME__="11:50:34"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
